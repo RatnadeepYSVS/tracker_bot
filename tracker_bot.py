@@ -6,6 +6,7 @@ from playsound import playsound
 from speech_recognition import *
 from os import *
 import webbrowser
+#paste ur url here
 url='https://www.amazon.in/Fossil-Touchscreen-Smartwatch-Notifications-FTW4025/dp/B07SRW3MCM/ref=sr_1_2?crid=2GD7W1RUOXPQ&dchild=1&keywords=fossil+gen+5+smartwatch&qid=1613832023&sprefix=foss%2Caps%2C347&sr=8-2'
 headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"}
 def track():
